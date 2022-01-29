@@ -8,7 +8,5 @@ I code for as long as I can remember. My journey with coding started with Arduin
 ## My stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matkot11&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matkot11&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Cheers☕️
