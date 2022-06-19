@@ -1,6 +1,6 @@
 # Hey, it's me🙍‍♂️
 
-Third year Computer Science student at De Montfort University and self-thought Frontend Developer specialized in React. In the free time I love trying out new technologies. Currently I am creating app in React Native. Besides of coding I am huge fan of soulslike game genre and cooking dished from all over the world cuisines.
+Third year Computer Science student at De Montfort University and self-thought Frontend Developer specialized in React. In the free time I love trying out new technologies. Currently I am creating app in React Native. Besides of coding I am huge fan of soulslike game genre and cooking dishes from all over the world cuisines.
 
 ## Stay in touch!
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mateusz-kocik-a27439193/)
